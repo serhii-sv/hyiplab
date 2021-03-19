@@ -7,7 +7,7 @@ How to install:
 - If you would like to use Docker (installing may take some while, first time installing 30-60 min depends on your perfomance):
     - git clone https://github.com/Laradock/laradock.git laradock-hyiplab
     - cd laradock-hyiplab
-    - cp env-example .env
+    - cp ../laradock-env-example .env
     - docker-compose up -d nginx mysql php-fpm phpmyadmin workspace redis mailhog
     - docker-compose exec --user=laradock workspace bash
 - composer install
