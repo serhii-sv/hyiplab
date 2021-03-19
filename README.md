@@ -15,4 +15,5 @@ How to install:
 - php artisan key:generate
 - php artisan migrate
 - php artisan db:seed
+- php artisan clean:demo
 - chmod -R 777 storage/logs/ storage/framework

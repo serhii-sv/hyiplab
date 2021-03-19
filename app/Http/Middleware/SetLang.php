@@ -28,9 +28,7 @@ class SetLang
          * Language
          */
         $defaultLang = Language::where('default', 1)->first();
-        $defaultLang = $defaultLang !== null
-            ? $defaultLang->code
-            : 'en';
+        $defaultLang = 'en';
 
         $path = resource_path('lang/' . $defaultLang . '.json');
 

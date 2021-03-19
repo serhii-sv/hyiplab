@@ -32,6 +32,8 @@
     <!--favicon-->
     <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.ico" />
 
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+
     @yield('css')
 </head>
 
