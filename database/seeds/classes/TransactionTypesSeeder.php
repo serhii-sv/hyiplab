@@ -1,13 +1,7 @@
 <?php
-/**
- * This engine owned and produced by HyipLab studio.
- * Visit our website: https://hyiplab.net/
- */
 
-/**
- * This engine owned and produced by HyipLab studio.
- * Visit our website: https://hyiplab.net/
- */
+
+
 
 use App\Models\TransactionType;
 use Illuminate\Database\Seeder;

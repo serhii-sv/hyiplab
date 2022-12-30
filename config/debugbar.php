@@ -1,8 +1,5 @@
 <?php
-/**
- * This engine owned and produced by HyipLab studio.
- * Visit our website: https://hyiplab.net/
- */
+
 
 return [
     /*
