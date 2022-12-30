@@ -1,7 +1,7 @@
 <?php
-/**
- * Copyright. "Hyipium" engine. All rights reserved.
- * Any questions? Please, visit https://hyipium.com
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
  */
 
 namespace App\Models;

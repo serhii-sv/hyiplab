@@ -1,4 +1,8 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
 
 /**
  * Laravel - A PHP Framework For Web Artisans

@@ -11163,6 +11163,11 @@ CREATE TABLE IF NOT EXISTS `region` (
   KEY `city_id` (`city_id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATION=utf8mb4_unicode_ci AUTO_INCREMENT=15789406 ;
 
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 --
 -- Дамп данных таблицы `region`
 --
@@ -12098,6 +12103,8 @@ INSERT INTO `region` (`region_id`, `country_id`, `city_id`, `name`) VALUES
 --
 -- Ограничения внешнего ключа таблицы `city`
 --
+/*
 ALTER TABLE `city`
   ADD CONSTRAINT `City_fk_country` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`),
   ADD CONSTRAINT `City_fk_region` FOREIGN KEY (`region_id`) REFERENCES `region` (`region_id`);
+*/

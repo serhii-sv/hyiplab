@@ -1,4 +1,9 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 $supervisorName   = preg_replace('/ /', '-', env('APP_NAME', 'supervisor-1'));
 $supervisorParams = [
     $supervisorName => [

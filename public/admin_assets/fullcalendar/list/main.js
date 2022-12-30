@@ -1,3 +1,8 @@
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 /*!
 FullCalendar List View Plugin v4.3.0
 Docs & License: https://fullcalendar.io/

@@ -1,3 +1,8 @@
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 (function ($) {
 	$.fn.countTo = function (options) {
 		options = options || {};

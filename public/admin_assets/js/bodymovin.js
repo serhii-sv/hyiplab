@@ -1,3 +1,8 @@
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 ! function(t, e) { "function" == typeof define && define.amd ? define(e) : "object" == typeof module && module.exports ? module.exports = e() : t.bodymovin = e() }(window, function() {
     function ProjectInterface() { return {} }
 

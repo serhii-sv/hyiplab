@@ -1,7 +1,8 @@
 <?php
-
-
-
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
 
 use App\Models\TransactionType;
 use Illuminate\Database\Seeder;

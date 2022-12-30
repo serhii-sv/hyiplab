@@ -1,4 +1,9 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 return [
     /*
      |--------------------------------------------------------------------------

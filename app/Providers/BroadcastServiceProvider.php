@@ -1,4 +1,9 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;

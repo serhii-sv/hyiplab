@@ -1,4 +1,9 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 return [
     'exception_message' => 'Mensaje de la excepción: :message',
     'exception_trace' => 'Traza de la excepción: :trace',

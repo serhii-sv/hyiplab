@@ -1,6 +1,6 @@
 <!--
-  - Copyright. "hyiplab" engine. All rights reserved.
-  - Any questions? Please, visit https://hyiplab.net
+  - Copyright. Created by Serhii Voronovych
+  - https://voronovych.com
   -->
 
 <template>

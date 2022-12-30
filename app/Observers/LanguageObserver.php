@@ -1,5 +1,10 @@
 <?php
 /*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
+/*
  * This engine owned and produced by HyipLab studio.
  * Visit our website: https://hyiplab.net/
  */

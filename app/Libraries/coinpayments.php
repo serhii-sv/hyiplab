@@ -1,4 +1,9 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 class CoinPaymentsAPI {
     private $private_key = '';
     private $public_key = '';

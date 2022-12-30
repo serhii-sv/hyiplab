@@ -1,8 +1,7 @@
-/* @license
-morris.js v0.5.0
-Copyright 2014 Olly Smith All rights reserved.
-Licensed under the BSD-2-Clause License.
-*/
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
 
 
 (function() {

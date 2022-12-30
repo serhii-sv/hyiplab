@@ -1,4 +1,9 @@
 
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 window._ = require('lodash');
 
 /**

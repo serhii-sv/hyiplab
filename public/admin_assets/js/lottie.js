@@ -1,3 +1,8 @@
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 (typeof navigator !== "undefined") && (function(root, factory) {
     if (typeof define === "function" && define.amd) {
         define(function() {

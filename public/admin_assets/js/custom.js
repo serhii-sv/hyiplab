@@ -1,4 +1,9 @@
 /*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
+/*
 Template: Sofbox - Responsive Bootstrap 4 Admin Dashboard Template
 Author: iqonicthemes.in
 Design and Developed by: iqonicthemes.in

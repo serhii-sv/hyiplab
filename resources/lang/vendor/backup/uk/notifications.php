@@ -1,5 +1,8 @@
 <?php
-
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
 
 return [
     'exception_message' => 'Повідомлення про помилку: :message',

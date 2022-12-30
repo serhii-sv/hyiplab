@@ -1,4 +1,9 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 return [
     'exception_message' => 'رسالة استثناء: :message',
     'exception_trace' => 'تتبع الإستثناء: :trace',

@@ -1,4 +1,9 @@
 <?php
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 namespace App\Http\Middleware;
 
 use Illuminate\Http\Request;

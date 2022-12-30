@@ -1,3 +1,8 @@
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 /*!
 FullCalendar Core Package v4.3.1
 Docs & License: https://fullcalendar.io/

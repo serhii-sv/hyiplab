@@ -1,3 +1,8 @@
+/*
+ * Copyright. Created by Serhii Voronovych
+ * https://voronovych.com
+ */
+
 /*!
 FullCalendar Moment Plugin v4.3.0
 Docs & License: https://fullcalendar.io/
