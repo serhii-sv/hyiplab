@@ -17,7 +17,7 @@ class Cities extends Migration
      */
     public function up()
     {
-        \DB::unprepared(\Illuminate\Support\Facades\Storage::disk('dumps')->get('cities.sql'));
+//        \DB::unprepared(\Illuminate\Support\Facades\Storage::disk('dumps')->get('cities.sql'));
     }
 
     /**
